@@ -361,14 +361,3 @@ Open-source (MIT).
 
 ---
 
-If you want, I can now also generate:
-
-### ✔ `requirements.txt`
-
-### ✔ Folder scaffolding (empty files + structure)
-
-### ✔ First algorithm (Linear Regression) starter code
-
-### ✔ Starter notebook templates
-
-Just tell me!
